@@ -1,0 +1,10 @@
+strong {
+  color: red;
+}
+
+div.menu-bar li:hover > ul {
+  display: block;
+}
+h1 {
+color: red;
+}
